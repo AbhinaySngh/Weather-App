@@ -1,2 +1,2 @@
-# Weather-App-
+# Weather-App
 This is my Weather App project using JavaScript.
